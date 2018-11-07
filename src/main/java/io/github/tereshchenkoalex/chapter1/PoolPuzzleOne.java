@@ -1,10 +1,13 @@
 package io.github.tereshchenkoalex.chapter1;
 
+/**
+ * Chapter 1. Task 1 - PoolPuzzle. Page 24.
+ */
 public class PoolPuzzleOne {
     public static void main(String[] args) {
         int x = 0;
 
-        while(x < 4) {
+        while (x < 4) {
             System.out.print("a");
             if (x < 1) {
                 System.out.print(" ");
@@ -13,9 +16,9 @@ public class PoolPuzzleOne {
 
             if (x > 1) {
                 System.out.print(" oyster");
-                x = x+ 2;
+                x = x + 2;
             }
-            if (x == 1){
+            if (x == 1) {
                 System.out.print("noys");
             }
             if (x < 1) {
