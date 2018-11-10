@@ -1,5 +1,8 @@
 package io.github.tereshchenkoalex.chapter2;
 
+/**
+ * Chapter 2. Task 1. Page 43
+ */
 public class DrumKit {
 
     boolean topHat = true;
