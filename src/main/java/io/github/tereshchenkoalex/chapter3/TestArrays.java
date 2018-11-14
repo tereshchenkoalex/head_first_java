@@ -1,5 +1,8 @@
 package io.github.tereshchenkoalex.chapter3;
 
+/**
+ * Chapter 3. Task 1. Page 64
+ */
 public class TestArrays {
 
     public static void main(String[] args) {

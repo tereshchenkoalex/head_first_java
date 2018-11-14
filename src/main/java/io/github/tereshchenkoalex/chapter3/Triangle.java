@@ -1,7 +1,7 @@
 package io.github.tereshchenkoalex.chapter3;
 
 /**
- * Chapter 3. Task 1. Page 65
+ * Chapter 3. Task 2. Page 65
  */
 public class Triangle {
 
