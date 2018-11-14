@@ -11,11 +11,9 @@ public class Triangle {
 
     public static void main(String [] args) {
 
-    int x = 0;
     Triangle[] ta = new Triangle[4];
-
+    int x = 0;
     while (x < 4) {
-
         ta[x] = new Triangle();
         ta[x].height = (x + 1) * 2;
         ta[x].length = x + 4;
@@ -34,6 +32,6 @@ public class Triangle {
     }
 
     void setArea() {
-    area =(height * length) / 2;
+    area = (height * length) / 2;
     }
 }
